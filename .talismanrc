@@ -1,0 +1,12 @@
+fileignoreconfig:
+  - filename: yarn.lock
+    checksum: 6857f1f4ec7cc52aa144bc6771606eb9bfff7628cf3cf5b453056496f152f99d
+  - filename: src/components/Card/index.js
+    checksum: a86e74d3921e1141d270640bc1959260af657c7a029f215e9863622d49a5a061
+  - filename: src/Home/index.js
+    checksum: 12c9b84d3a8951e663ec578e5b715cfc021dc7d08918459871ab5ae4448ee2d9
+  - filename: src/components/Title/index.js
+    checksum: fe61e7424278a78809a40bef4f8f243c597dea366a89bcd50a56af318aebd529
+  - filename: src/components/List/index.js
+    checksum: dc00b170ea5ffa348be85a22bb388569d79d97e5072d267f41beee480712fbe8
+version: ""
